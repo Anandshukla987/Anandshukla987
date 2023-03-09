@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anandshukla987
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me anandshukla2001@gmail.com
 
